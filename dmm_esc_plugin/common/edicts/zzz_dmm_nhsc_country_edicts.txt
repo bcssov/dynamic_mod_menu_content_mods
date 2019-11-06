@@ -1,0 +1,23 @@
+nhsc_mod_control_edict2 = {
+	length = 0
+	resources = {
+		category = edicts
+		cost = {
+			energy = 0
+		}
+	}
+	potential = {
+		NOT = {
+			has_global_flag = dynamic_mod_menu_installed
+		}
+		owner = {
+			is_ai = no
+		}
+	}
+	effect = {
+		country_event = {
+			id = esc_options.1
+			days = 0
+		}
+	}
+}

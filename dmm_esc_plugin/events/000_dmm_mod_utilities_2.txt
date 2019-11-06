@@ -1,0 +1,17 @@
+namespace = dmm_mod_utilities
+country_event = {
+	id = dmm_mod_utilities.2
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		has_global_flag = dmm_mod_utilities_2
+	}
+	after = {
+		remove_global_flag = dmm_mod_utilities_2_opened
+	}
+	immediate = {
+		country_event = {
+			id = esc_options.1
+		}
+	}
+}
