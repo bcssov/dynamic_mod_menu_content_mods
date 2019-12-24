@@ -1,0 +1,5 @@
+﻿
+l_braz_por:
+ dmm_mod_utilities_2:0 "$edict_nhsc_mod_control_edict2$"
+ dmm_mod_utilities.2.title:0 "$edict_nhsc_mod_control_edict2$"
+ dmm_mod_utilities.2.desc:0 "$edict_nhsc_mod_control_edict2_desc$"

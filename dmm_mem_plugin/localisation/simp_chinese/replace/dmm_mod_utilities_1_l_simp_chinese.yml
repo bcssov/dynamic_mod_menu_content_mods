@@ -1,0 +1,5 @@
+﻿
+l_simp_chinese:
+ dmm_mod_utilities_1:0 "$edict_mem_options_menu$"
+ dmm_mod_utilities.1.title:0 "$edict_mem_options_menu$"
+ dmm_mod_utilities.1.desc:0 "$edict_mem_options_menu_desc$"
