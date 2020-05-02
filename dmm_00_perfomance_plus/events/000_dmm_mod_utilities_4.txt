@@ -1,0 +1,17 @@
+namespace = dmm_mod_utilities
+country_event = {
+	id = dmm_mod_utilities.4
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+		has_global_flag = dmm_mod_utilities_4
+	}
+	after = {
+		remove_global_flag = dmm_mod_utilities_4_opened
+	}
+	immediate = {
+		country_event = {
+			id = z_performance_misc.11
+		}
+	}
+}
