@@ -1,5 +1,4 @@
 ﻿name = "DMM: More Events Mod Plugin"
-path = "mod/dmm_mem_plugin"
 tags = {
 	"Utilities"
 }
@@ -10,4 +9,4 @@ dependencies = {
 }
 
 picture = "thumbnail.png"
-supported_version = "2.6.*"
+supported_version = "2.7.*"

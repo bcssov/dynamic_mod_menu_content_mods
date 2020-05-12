@@ -1,5 +1,4 @@
 ﻿name = "DMM: 00 Perfomance Plus Plugin"
-path = "mod/dmm_00_perfomance_plus"
 tags = {
 	"Utilities"
 }
@@ -10,4 +9,4 @@ dependencies = {
 }
 
 picture = "thumbnail.png"
-supported_version = "2.6.*"
+supported_version = "2.7.*"
