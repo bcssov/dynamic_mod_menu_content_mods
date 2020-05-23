@@ -1,0 +1,3 @@
+z_mm_unlock_menu_button = {
+	# It's here so the game doesn't crash...
+}

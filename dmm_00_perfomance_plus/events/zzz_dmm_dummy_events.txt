@@ -1,0 +1,20 @@
+namespace = z_fw_core_country
+country_event = {
+	id = z_fw_core_country.20
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+	}
+	immediate = {
+	}
+}
+
+country_event = {
+	id = z_fw_core_country.2
+	hide_window = yes
+	is_triggered_only = yes
+	trigger = {
+	}
+	immediate = {
+	}
+}
